@@ -1,0 +1,9 @@
+F:\Parser\Parsercbr\Parsercbr\bin\Debug\Parsercbr.exe.config
+F:\Parser\Parsercbr\Parsercbr\bin\Debug\Parsercbr.exe
+F:\Parser\Parsercbr\Parsercbr\bin\Debug\Parsercbr.pdb
+F:\Parser\Parsercbr\Parsercbr\obj\Debug\Parsercbr.csprojResolveAssemblyReference.cache
+F:\Parser\Parsercbr\Parsercbr\obj\Debug\Parsercbr.Form1.resources
+F:\Parser\Parsercbr\Parsercbr\obj\Debug\Parsercbr.Properties.Resources.resources
+F:\Parser\Parsercbr\Parsercbr\obj\Debug\Parsercbr.csproj.GenerateResource.Cache
+F:\Parser\Parsercbr\Parsercbr\obj\Debug\Parsercbr.exe
+F:\Parser\Parsercbr\Parsercbr\obj\Debug\Parsercbr.pdb
